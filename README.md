@@ -2,14 +2,11 @@
 
 A place for me to test things with READMEs
 
-2
-
-![Testing SVG](./assets/svg-test-1.svg)
-
 
 <table>
     <tr>
-        <td>here</td>
+        <td>Here</td>
+        <td><img src="./assets/01-hello-world.gif"></td>
     </tr>
 </table>
 
