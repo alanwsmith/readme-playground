@@ -1,10 +1,7 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
+<svg width="400" height="225" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="400" height="225">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
+        <video width="400" height="225" src="https://github.com/user-attachments/assets/f352e161-fbfb-4b72-81c2-62d7a6d02f1bj.mp4"></video>
     </div>
 </foreignObject>
 </svg>
